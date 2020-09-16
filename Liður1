@@ -1,0 +1,7 @@
+tvíunda_tugakerfi(n):
+ef n er 1 
+  returnar int(n) sinnum 2 í veldi lengds n -1
+annars
+  tekin er fyrsta tala í tvíundatöluni í breytu
+  svo returnar seinni tölu í tvíundatölu plús tölu í breytu sinnum 2 í veldinu lengds n -1
+  
