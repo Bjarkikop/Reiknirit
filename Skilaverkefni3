@@ -1,0 +1,6 @@
+1. 
+O(n) = MergeSort, TimSort, Bucket Sort, CubeSort
+O(n^2) = QuickSort, BubbleSort, Insertion Sort, Selection Sort, Tree Sort, Bucket Sort
+O(n*log(n)) = MergeSort, TimSort, Heapsort, CubeSort
+
+4.
