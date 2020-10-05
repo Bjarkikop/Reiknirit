@@ -4,3 +4,6 @@ O(n^2) = Þetta er það sama nema að n er í veldinu 2 þannig ef n=10 mun þa
 O(n*log(n)) = ef n er 10 mun það verða 10 tímaeiningar, ef n=100 verður það 200 tímaeiningar. MergeSort, TimSort, Heapsort, CubeSort
 
 4.
+a.finna hæsta gildi og láta það í síðasta sætið.
+b. Selection Sort
+c. O(n^2)
